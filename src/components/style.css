@@ -1,66 +1,64 @@
+/* CSS for file1 */
 .widget {
-  background-color: #f0f0f0;
-  border-radius: 10px;
+  background-color: #f5f5f5;
   padding: 20px;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-family: Arial, sans-serif;
+  max-width: 300px;
+  margin: 0 auto;
 }
 
 .weatherIcon i {
   font-size: 48px;
-  margin-bottom: 10px;
+  color: #333;
 }
 
 .temperature {
-  font-size: 24px;
+  font-size: 28px;
   font-weight: bold;
-  margin-bottom: 10px;
 }
 
 .weatherCondition {
-  font-size: 18px;
-  margin-bottom: 5px;
+  font-size: 16px;
+  margin: 5px 0;
 }
 
 .place {
   font-size: 14px;
-  color: #888;
+  color: #666;
 }
 
 .date {
-  margin-top: 10px;
   font-size: 12px;
-  color: #888;
+  color: #999;
+  margin-top: 10px;
 }
 
 .extra-temp {
   margin-top: 20px;
 }
 
-.temp-info-minmax {
-  display: flex;
-  justify-content: space-between;
-}
-
 .two-sided-section {
-  display: flex;
-  align-items: center;
+  display: inline-block;
+  padding: 5px 15px;
 }
 
-.extra-info-leftside {
-  font-size: 14px;
-  margin-left: 10px;
+.temp-info-minmax p {
+  font-size: 18px;
 }
 
 .weather-extra-info {
   margin-top: 10px;
 }
+
+/* CSS for file2 */
 .wrap {
   display: flex;
   justify-content: center;
   margin-top: 20px;
+  padding-bottom: 10px;
 }
 
 .search {
@@ -68,29 +66,28 @@
   align-items: center;
   background-color: #fff;
   border-radius: 5px;
-  padding: 5px 10px;
-  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .searchTerm {
   border: none;
+  padding: 10px;
+  width: 70%;
+  border-radius: 5px 0 0 5px;
   outline: none;
-  width: 100%;
-  padding: 5px;
 }
 
 .searchButton {
+  border: none;
+  padding: 10px 20px;
   background-color: #007bff;
   color: #fff;
-  border: none;
-  border-radius: 5px;
-  padding: 5px 10px;
-  margin-left: 5px;
+  border-radius: 0 5px 5px 0;
   cursor: pointer;
-  transition: background-color 0.3s;
+  transition: background-color 0.3s ease;
 }
 
 .searchButton:hover {
   background-color: #0056b3;
 }
-  
