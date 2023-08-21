@@ -42,5 +42,5 @@ localhost:3000
 
 
 # Hosted website link
-This [weatherApp](https://shipmnts-weather-7e7i62w9a-shreymakadiya18.vercel.app/) is hosted on vercel.com.
+This [weatherApp](https://shipmnts-weather-7e7i62w9a-shreymakadiya18.vercel.app/) is hosted on vercel.com. \
 https://shipmnts-weather-7e7i62w9a-shreymakadiya18.vercel.app/
