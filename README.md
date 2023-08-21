@@ -31,14 +31,15 @@ My app is ready to be deployed!
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-### run code
+## run code
 ### `cd shipmnts-weatherApp`
 ### `npm i`
 ### `npm start`
+
+
 Output is show on localhost port 3000
 localhost:3000
 
 
-### Hosted website link
-[weatherApp](https://shipmnts-weather-7e7i62w9a-shreymakadiya18.vercel.app/)
+# Hosted website link
 This [weatherApp](https://shipmnts-weather-7e7i62w9a-shreymakadiya18.vercel.app/) is hosted on vercel.com.
