@@ -25,9 +25,7 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+My app is ready to be deployed!
 
 ### `npm run eject`
 
@@ -40,3 +38,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 Output is show on localhost port 3000
 localhost:3000
 
+
+### Hosted website link
+[weatherApp](https://shipmnts-weather-7e7i62w9a-shreymakadiya18.vercel.app/)
+This [weatherApp](https://shipmnts-weather-7e7i62w9a-shreymakadiya18.vercel.app/) is hosted on vercel.com.
